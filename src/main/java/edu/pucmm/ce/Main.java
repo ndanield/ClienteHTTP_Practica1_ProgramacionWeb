@@ -12,11 +12,12 @@ import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.net.ConnectException;
+import java.net.MalformedURLException;
 import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
         System.out.print("Ingresé una URL válida: ");
@@ -70,6 +71,8 @@ public class Main {
 
         } catch (IOException ioe) {
             System.out.println("(!!) Url invalida.");
+        } catch (IllegalArgumentException iae) {
+            System.out.println("(!!) Url invalida. ");
         }
 
         System.out.println("Fin del programa.");

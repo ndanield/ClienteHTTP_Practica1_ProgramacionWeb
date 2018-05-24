@@ -81,8 +81,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/pucmm/ce/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="53" column="67" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="67" />
+            <state relative-caret-position="126">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -643,7 +643,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526933914217</updated>
       <workItem from="1526933916774" duration="10099000" />
-      <workItem from="1527104169670" duration="16883000" />
+      <workItem from="1527104169670" duration="17714000" />
     </task>
     <task id="LOCAL-00001" summary="Proyecto Gradle configurado">
       <created>1526934089649</created>
@@ -656,7 +656,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26982000" />
+    <option name="totallyTimeSpent" value="27813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -681,8 +681,8 @@
       <window_info anchor="right" id="Capture Analysis" order="9" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="3" weight="0.28668684" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24019608" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30228758" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25980392" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30228758" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" weight="0.32843137" />
       <window_info anchor="right" id="Gradle" order="10" weight="0.32980332" />
@@ -796,8 +796,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/pucmm/ce/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="53" column="67" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="67" />
+        <state relative-caret-position="126">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
